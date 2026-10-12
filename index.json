@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "dirbot",
+  "versions": [
+    {
+      "commit": "8e995447361ad83f6693d2e07d17d90912268ace",
+      "tag": "",
+      "parsed_at": "2026-10-12T06:18:59.987686+00:00"
+    }
+  ]
+}
